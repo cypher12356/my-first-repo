@@ -1,4 +1,4 @@
-package demo.invoke;
+package com.example.demo.demo.invoke;
 
 
 // 建议dashscope SDK的版本 >= 2.12.0

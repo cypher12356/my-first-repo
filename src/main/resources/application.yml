@@ -11,6 +11,7 @@ spring:
       chat:
         options:
           model: qwen-plus
+      api-key: sk-a8b0e48879d14161a96e4f13ac18775a
     ollama:
       base-url: http://localhost:11434
       chat:
@@ -23,7 +24,7 @@ server:
 
 
 
-# springdoc-openapi????
+# springdoc-openapi
 springdoc:
   swagger-ui:
     path: /swagger-ui.html

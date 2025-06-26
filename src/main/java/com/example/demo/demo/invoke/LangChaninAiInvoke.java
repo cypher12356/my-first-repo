@@ -1,4 +1,4 @@
-package demo.invoke;
+package com.example.demo.demo.invoke;
 
 import dev.langchain4j.community.model.dashscope.QwenChatModel;
 
