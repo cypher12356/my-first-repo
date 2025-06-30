@@ -8,7 +8,7 @@ import org.springframework.ai.ollama.OllamaChatModel;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
-@Component
+//@Component
 public class OllamaAiInvoke implements CommandLineRunner {
 
     @Resource(name = "ollamaChatModel")
